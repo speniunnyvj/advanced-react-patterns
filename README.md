@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://epicreact.dev/patterns">🤯 Advanced React Patterns 🚀 EpicReact.Dev</a></h1>
+  <h1 align="center"><a href="https://www.epicreact.dev/modules/advanced-react-patterns-v1/advanced-react-patterns-welcome">🤯 Advanced React Patterns 🚀 EpicReact.Dev</a></h1>
   <strong>
     Learn how to build simple and flexible React Components and Hooks using
     modern patterns
